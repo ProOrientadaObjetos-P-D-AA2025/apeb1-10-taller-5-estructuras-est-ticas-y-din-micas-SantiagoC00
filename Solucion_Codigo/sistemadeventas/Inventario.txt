@@ -1,0 +1,11 @@
+Atún Isabel:1.50:100
+Atún Real:1.40:110
+Aceite Favorita:4.00:100
+Fideo Amacay:2.50:200
+Arroz Paisanito:3.80:240
+Pasta Dental Colgate:2.00:150
+Cerveza Corona:2.20:200
+Caramelos Icapeb:1.75:450
+Cerveza Club Premium:2.50:250
+Galletas Zoologia:3.00:380
+Ricacao:2.10:120
